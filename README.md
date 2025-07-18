@@ -10,6 +10,7 @@ My personal collection of Flipper BadKB/BadUSB scripts I've collected and made.
 
 ### Pranks
 * [Rickroll](https://github.com/Ferretosan/flipper-badkb/blob/main/Mine/ChromeOS/Pranks/Rickroll.txt)  
+* [Tab Spam](https://github.com/Ferretosan/flipper-badkb/blob/main/Mine/ChromeOS/Pranks/Tab%20Spam.txt)
 * [Virus](https://github.com/Ferretosan/flipper-badkb/blob/main/Mine/ChromeOS/Pranks/Virus.txt)
 
 ### Utility

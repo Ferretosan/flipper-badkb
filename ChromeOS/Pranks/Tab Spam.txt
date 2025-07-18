@@ -1,0 +1,18 @@
+REM #############################
+REM #                           #
+REM # Title        : Tab Spam    #
+REM # Author       : Ferretosan    #
+REM # Version      : 1.0        #
+REM # Category     : Pranks    #
+REM # Target       : ChromeOS #
+REM #                           #
+REM #############################
+
+REPEAT 100
+REPEAT 10
+CONTROL T
+DELAY 100
+END
+CONTROL N
+DELAY 100
+END
