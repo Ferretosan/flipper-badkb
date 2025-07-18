@@ -1,0 +1,26 @@
+REM #############################
+REM #                           #
+REM # Title        : Rickroll iTerm    #
+REM # Author       : Ferretosan    #
+REM # Version      : 1.2        #
+REM # Category     : Pranks    #
+REM # Target       : MacOS #
+REM #                           #
+REM #############################
+
+GUI SPACE
+DELAY 200
+STRING iTerm
+DELAY 200
+ENTER
+DELAY 200
+STRING curl ascii.live/rick
+DELAY 200
+ENTER
+DELAY 2000
+GUI SPACE
+STRING lmao get rickrolled
+DELAY 2000
+ESCAPE
+DELAY 200
+ESCAPE

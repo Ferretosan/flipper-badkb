@@ -1,0 +1,21 @@
+REM #############################
+REM #                           #
+REM # Title        : Rickroll Safari    #
+REM # Author       : Ferretosan    #
+REM # Version      : 1.0        #
+REM # Category     : Pranks    #
+REM # Target       : MacOS #
+REM #                           #
+REM #############################
+
+GUI SPACE
+DELAY 400
+STRING Safari
+DELAY 400
+ENTER
+DELAY 400
+GUI L
+DELAY 400
+STRING https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0
+DELAY 400
+ENTER

