@@ -1,0 +1,15 @@
+REM #############################
+REM #                           #
+REM # Title        : Quick Tab Replacer    #
+REM # Author       : Ferretosan    #
+REM # Version      : 1.0        #
+REM # Category     : Utility    #
+REM # Target       : ChromeOS #
+REM #                           #
+REM #############################
+
+CONTROL l
+delay 400
+STRING https://drive.google.com
+delay 400
+ENTER

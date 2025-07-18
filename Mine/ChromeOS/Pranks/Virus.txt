@@ -1,0 +1,10 @@
+REM #############################
+REM #                           #
+REM # Title        : Virus    #
+REM # Author       : Ferretosan    #
+REM # Version      : 1.0        #
+REM # Category     : Pranks    #
+REM # Target       : ChromeOS #
+REM #                           #
+REM #############################
+

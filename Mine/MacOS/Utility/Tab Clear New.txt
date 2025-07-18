@@ -1,0 +1,13 @@
+REM #############################
+REM #                           #
+REM # Title        : Tab Clear New    #
+REM # Author       : Ferretosan    #
+REM # Version      : 1.0        #
+REM # Category     : Utility    #
+REM # Target       : MacOS #
+REM #                           #
+REM #############################
+
+GUI SHIFT W
+DELAY 400
+GUI T

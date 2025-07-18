@@ -1,0 +1,20 @@
+REM #############################
+REM #                           #
+REM # Title        : Clear History    #
+REM # Author       : Ferretosan    #
+REM # Version      : 1.0        #
+REM # Category     : Utility    #
+REM # Target       : ChromeOS #
+REM #                           #
+REM #############################
+
+CTRL H
+DELAY 1000
+CTRL SHIFT BACKSPACE
+DELAY 1000
+TAB
+TAB
+TAB
+TAB
+SPACE
+ENTER
